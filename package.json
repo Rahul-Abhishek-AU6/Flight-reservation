@@ -1,0 +1,19 @@
+{
+  "name": "airline-reservation",
+  "version": "1.0.0",
+  "description": "MOckup project based on angular to depict workings of airline",
+  "main": "node-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node node-server.js"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "extend": "^2.0.1",
+    "grunt": "^0.4.5",
+    "grunt-contrib-copy": "^0.8.0",
+    "grunt-contrib-requirejs": "^0.4.4",
+    "grunt-este-watch": "^0.1.18",
+    "mongodb": "^2.0.35"
+  }
+}

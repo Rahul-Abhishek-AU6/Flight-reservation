@@ -1,0 +1,8 @@
+[
+	{ "code" : "NDLS", "city" : "New Delhi" },
+	{ "code" : "BOM", "city" : "Mumbai" },
+	{ "code" : "BLR", "city" : "Banglore" },
+	{ "code" : "CH", "city" : "Chandigath" },
+	{ "code" : "PB", "city" : "Punjab" },
+	{ "code" : "PTN", "city" : "Patna" }
+]
